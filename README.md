@@ -1,16 +1,12 @@
-# ecommerce_app
+# Authentification UI using Flutter
 
-A new Flutter project.
+## Project preview
+Login page:
+![Screenshot_1706099379](https://github.com/ismaildrs/auth-ui-using-flutter/assets/104438360/658de1a9-6143-4262-aa19-d386fef5c852)
 
-## Getting Started
+SignUp page:
+![Screenshot_1706099406](https://github.com/ismaildrs/auth-ui-using-flutter/assets/104438360/8a6fcd30-c054-464c-8970-313440dc240f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Why?
+In this project, I practiced my flutter knowledge to make a satisfying user interface for the authentification process.
+I also tried to make the code as efficient as possible, and make it readable by encapsulating widgets.
